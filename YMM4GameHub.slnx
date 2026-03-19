@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Reversi/Reversi.csproj" />
+  <Project Path="Speed/Speed.csproj" Id="c2f4ef96-0487-4de0-9662-4dd0e89c4eca" />
+  <Project Path="YMM4GameHub.Core/YMM4GameHub.Core.csproj" />
+  <Project Path="YMM4GameHub/YMM4GameHub.csproj" />
+</Solution>
