@@ -27,6 +27,9 @@ YMM4でオンライン対戦ができるようになります。
 - 「マッチング開始」を押す
 
 
+## ゲームの追加方法
+[Wiki参照](https://github.com/Dolphin-kun/YMM4GameHub/wiki)
+
 ## 更新履歴
 2026/4/1
 		v1.0.0公開
